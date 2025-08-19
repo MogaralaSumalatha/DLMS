@@ -1,0 +1,22 @@
+[2025-04-18 23:19:39,257] INFO [django.utils.autoreload] Watching for file changes with StatReloader
+[2025-04-18 23:19:41,820] WARNING [django.request] Not Found: /
+[2025-04-18 23:19:41,821] WARNING [django.server] "GET / HTTP/1.1" 404 2313
+[2025-04-18 23:19:42,225] WARNING [django.request] Not Found: /favicon.ico
+[2025-04-18 23:19:42,226] WARNING [django.server] "GET /favicon.ico HTTP/1.1" 404 2364
+[2025-04-18 23:23:49,133] INFO [django.utils.autoreload] C:\Users\HP\PycharmProjects\DLMS\library_system\Library_api\views.py changed, reloading.
+[2025-04-18 23:23:50,274] INFO [django.utils.autoreload] Watching for file changes with StatReloader
+[2025-04-18 23:23:52,773] WARNING [django.request] Not Found: /
+[2025-04-18 23:23:52,775] WARNING [django.server] "GET / HTTP/1.1" 404 2313
+[2025-04-18 23:25:03,252] INFO [django.utils.autoreload] C:\Users\HP\PycharmProjects\DLMS\library_system\Library_api\models.py changed, reloading.
+[2025-04-18 23:25:31,683] INFO [django.utils.autoreload] Watching for file changes with StatReloader
+[2025-04-18 23:25:41,444] WARNING [django.request] Not Found: /
+[2025-04-18 23:25:41,444] WARNING [django.server] "GET / HTTP/1.1" 404 2313
+[2025-04-18 23:25:41,571] WARNING [django.request] Not Found: /
+[2025-04-18 23:25:41,571] WARNING [django.server] "GET / HTTP/1.1" 404 2313
+[2025-04-18 23:25:41,799] WARNING [django.request] Not Found: /
+[2025-04-18 23:25:41,799] WARNING [django.server] "GET / HTTP/1.1" 404 2313
+[2025-04-20 12:32:34,443] INFO [django.utils.autoreload] Watching for file changes with StatReloader
+[2025-04-20 12:32:42,511] WARNING [django.request] Not Found: /
+[2025-04-20 12:32:42,512] WARNING [django.server] "GET / HTTP/1.1" 404 2313
+[2025-04-20 12:32:42,703] WARNING [django.request] Not Found: /favicon.ico
+[2025-04-20 12:32:42,704] WARNING [django.server] "GET /favicon.ico HTTP/1.1" 404 2364
